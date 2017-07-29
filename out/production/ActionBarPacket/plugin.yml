@@ -1,12 +1,7 @@
-# this is the name that we are going to call the plugin
-name: Packet Test
-# now we need to define the main class so it can load it.
-main: Com.source.java.test.Main
-# version number
+name: Action Bar Packet
+main: com.vertanzil.actionbarpacket.Main
 version: 0.1
-# plugin description
-description: Blank Plugin
-#commands below along with any descriptions or permissions you want to define.
+description: Action Bar Packet
 commands:
   test:
     description: TEST
