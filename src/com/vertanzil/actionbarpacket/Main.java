@@ -22,7 +22,4 @@ public class Main extends JavaPlugin {
         commands_test = new commands_test(this);
         getCommand("test").setExecutor((CommandExecutor) this.commands_test);
     }
-
-
-
 }
