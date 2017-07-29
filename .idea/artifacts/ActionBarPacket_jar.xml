@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ActionBarPacket:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ActionBarPacket_jar</output-path>
+    <root id="archive" name="ActionBarPacket.jar">
+      <element id="module-output" name="ActionBarPacket" />
+    </root>
+  </artifact>
+</component>
